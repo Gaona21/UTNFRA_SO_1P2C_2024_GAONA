@@ -1,0 +1,256 @@
+ls
+mkdir repogit
+ls
+cd repogit
+git clone git@github.com:upszot/UTN-FRA_SO_Examenes.git
+ls
+git clone git@github.com:upszot/UTN-FRA_SO_Examenes.git
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone git@github.com:Gaona21/UTNFRA_SO_1P2C_2024_GAONA.git
+ssh-keygen -t ed25519
+ls -l .ssh/
+cd .ssh
+ls -l
+cd
+ssh-keygen -t ed25519
+ls -l .ssh/
+cd .ssh
+ls
+cat id_ed25519.pub
+git clone git@github.com:Gaona21/UTNFRA_SO_1P2C_2024_GAONA.git
+ls
+sudo -r UTNFRA_SO_1P2C_2024_GAONA/
+ls
+sudo rm  -r UTNFRA_SO_1P2C_2024_GAONA/
+ls
+cd
+cd repogit/
+git clone git@github.com:Gaona21/UTNFRA_SO_1P2C_2024_GAONA.git
+ls
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+ls
+tree
+sudo apt install tree
+tree
+ls
+tree UTNFRA_SO_1P2C_2024_GAONA/
+cd UTNFRA_SO_1P2C_2024_GAONA/
+ls
+RTA_SCRIPT_Examen_20241013/
+LS
+cd RTA_SCRIPT_Examen_20241013/
+ls
+cd
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+ls
+tree Examenes-UTN/
+vim
+sudo apt install vim
+exit
+tree Examenes-UTN/
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+LS
+ls
+vim Punto_B.sh
+cd
+sudo fdisk -l
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+vim Punto_B.sh
+sudo fdisk /dev/sdc
+cd
+sudo chmod 764 /repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+chmod 764 /repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+cd /repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+cd repogit/
+cd /UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+cd UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+cd
+sudo chmod 764 repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+ls -l repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+cd /repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+ls
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+vim Punto_B.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013cd
+cd
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013cd
+ls
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+LS
+ls
+cat Punto_B.sh 
+cd
+sudo fdisk -l
+sudo fdisk /dev/sdc
+cd UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+cd UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013
+vim Punto_B.sh 
+cd
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/
+git status
+git add .
+git status
+git commit -m "Resolucion punto B, particion, formateo y montaje "
+git config --global user.email  sgaon969@gmail.com
+git config --global user.name Gaona21
+git commit -m "Resolucion punto B, particion, formateo y montaje "
+it status
+git status
+ggit push
+git push
+exxit
+exit
+sudo groupadd p1c2_2024_gAlumno
+cat /etc/group
+sudo groupadd p1c2_2024_gProfesores
+cat /etc/group
+sudo useradd -m -s /bin/bash -p "$(sudo grep osboxes /etc/shadow | awk -F ':' '{print $2}')" p1c2_2024_A1
+cat /etc/passwd
+sudo usermod -G p1c2_2024_gAlumno p1c2_2024_A1
+cat /etc/passwd
+cat /etc/group
+sudo useradd -m -s /bin/bash -p "$(sudo grep osboxes /etc/shadow | awk -F ':' '{print $2}')" p1c2_2024_A2
+sudo usermod -G p1c2_2024_gAlumno p1c2_2024_A2
+sudo useradd -m -s /bin/bash -p "$(sudo grep osboxes /etc/shadow | awk -F ':' '{print $2}')" p1c2_2024_A3
+sudo usermod -G p1c2_2024_gAlumno p1c2_2024_A3
+sudo useradd -m -s /bin/bash -p "$(sudo grep osboxes /etc/shadow | awk -F ':' '{print $2}')" p1c2_2024_P1
+sudo usermod -G p1c2_2024_gProfesores p1c2_2024_P1
+cat /etc/group
+history
+sudo p1c2_2024_A1:p1c2_2024_A1 /Examenes-UTN
+/alumno_1
+sudo chown p1c2_2024_A1:p1c2_2024_A1 /Examenes-UTN
+sudo chmod 750 /Examenes-UTN/alumno_1
+sudo chmod 750 Examenes-UTN/alumno_1
+ls
+tree Examenes-UTN/
+sudo chmod 750 /Examenes-UTN/alumnos_1
+ls -l Examenes-UTN/
+ls -l Examenes-UTN/alumnos_1
+sudo chmod 750 Examenes-UTN/alumnos_1
+ls -l Examenes-UTN/alumnos_1
+sudo chmod 750 /Examenes-UTN/alumno_1
+sudo chmod 750 Examenes-UTN/alumno_1
+su p1c2_2024_A1
+sudo chmod 760 Examenes-UTN/alumnos_2
+sudo chown p1c2_2024_A2:p1c2_2024_A2 /Examenes-UTN/alumnos_2
+ls -l Examenes-UTN/
+sudo chmod 700 Examenes-UTN/alumnos_3
+ls -l Examenes-UTN/
+sudo chown p1c2_2024_A3:p1c2_2024_A3 /Examenes-UTN/alumnos_3
+ls -l Examenes-UTN/
+sudo chown p1c2_2024_A3:p1c2_2024_A3 Examenes-UTN/alumnos_3
+ls -l Examenes-UTN/
+sudo chmod 775 Examenes-UTN/profesores
+ls -l Examenes-UTN/
+sudo chown p1c2_2024_P1:p1c2_2024_gProfesores Examenes-UTN/profesores
+ls -l Examenes-UTN/
+sudo -u p1c2_2024_A1 bash -c "whoami > /Examenes-UTN/alumno_1/validar.txt"
+sudo -u p1c2_2024_A1 bash -c "whoami > Examenes-UTN/alumno_1/validar.txt"
+whoami
+cd Examenes-UTN/alumnos_1
+whoami
+ls
+cd
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+LS
+ls
+vim Punto_C.sh 
+sudo chmod 755 Punto_C.sh
+ls
+cd
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_C.sh 
+ls
+ls -l Examenes-UTN/
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA
+git status
+git add .
+git commit -m "Realizacion del punto C, crear grupos y usuarios"
+git push
+cd
+mkdir Estructura_Asimetrica/correo,clientes
+mkdir Estructura_Asimetrica/{correo,clientes}
+mkdir -p Estructura_Asimetrica/{correo,clientes}
+ls
+tre Estructura_Asimetrica/
+tree Estructura_Asimetrica/
+sudo rm -r Estructura_Asimetrica/
+ls
+mkdir -p Estructura_Asimetrica/{correo/cartas_{1..100},carteros_{1..10},clientes/cartas_{1..100}}
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -r Estructura_Asimetrica/
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls
+mkdir -p Estructura_Asimetrica/{correo/{cartas_{1..100},carteros_{1..10}},clientes/cartas_{1..100}}
+ls
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+ls
+vim Punto_C.sh 
+vim Punto_D.sh 
+sudo chmod 764 Punto_D.sh 
+ls
+cd
+sudo rm -r Estructura_Asimetrica/
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_D.sh 
+ls
+tree Estructura_Asimetrica/
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_GAONA/
+git status
+git add .
+git commit -m "Resolucion del Punto E, estructura asimetrica"
+git push
+cd
+cat /proc/meminfo
+cat /proc/meminfo | grep -i mem
+cat /proc/meminfo | grep -i memtotal
+cat /proc/meminfo | grep -i memtotal > repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+cat repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+dmidecode -t chassis
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | grep "Manufacturer"
+sudo dmidecode -t chassis | grep "Chassis Information" | dmidecode -t chassis | grep "Manufacturer" 
+sudo dmidecode -t chassis | grep "Chassis Information" | sudo dmidecode -t chassis | grep "Manufacturer" 
+sudo dmidecode -t chassis | grep "Chassis Information"  >> repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+sudo dmidecode -t chassis | grep "Manufacturer" >> repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+cat repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+sudo rm -r repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+cat repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/
+LS
+ls
+vim Punto_E.sh 
+sudo chmod 764 Punto_E.sh 
+ls
+cd
+./repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_SCRIPT_Examen_20241013/Punto_E.sh 
+cat repogit/UTNFRA_SO_1P2C_2024_GAONA/RTA_ARCHIVOS_Examen_20241013/Filtro_Basico.txt
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA/
+git status
+git add .
+git commit -m "Resolucion punto E, filtros basicos"
+git push
+cd
+cd repogit/UTNFRA_SO_1P2C_2024_GAONA
+ls
+vim README.md 
+cat README.md 
+cd
+history -a
+ls
+$HOME/.bash_history
+sudo $HOME/.bash_history
+cdc repogit/UTNFRA_SO_1P2C_2024_GAONA/
+/.bash_history
+cp ~/.bash_history
+cp .bash_history
+cp /.bash_history
+cat $HOME/.bash_history
